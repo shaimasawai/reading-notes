@@ -7,6 +7,12 @@
 growth | [cleek](https://replit.com/@shaimasawai/reading-notes#README.md)
 rede01 | [rede](./rede01.md)
 js.04 | [javascrept](./reading04.md)
+css06 | [css](./css.md)
+read04 | [read04](./reade04.md)
+html02 | [html02](./html02.md)
+loop05 | [loop05](./loop05.md)
+read02 | [read02](./read02)
+
 
 
 
