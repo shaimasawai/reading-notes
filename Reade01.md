@@ -1,4 +1,4 @@
-ff# reading-notes
+# reading-notes
 # How you can benefit from a growth mindset
 
 A growth mindset is a person's love for learning how a person can develop their skills through continuous learning

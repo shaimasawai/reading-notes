@@ -6,6 +6,8 @@
 ------------ | -------------
 growth | [cleek](https://replit.com/@shaimasawai/reading-notes#README.md)
 rede01 | [rede](./rede01.md)
-Git | [cleek in](https://replit.com/@shaimasawai/READMEmd#reade02rev.md)
+js.04 | [javascrept](./reading04.md)
+
+
 
 
