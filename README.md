@@ -29,7 +29,7 @@ Here you can check my reading note for 201 course by checking the topics in the 
 |------|-------|
 | class01 | [link](./class01.md) |
 | class02 | [link](./class-02.md) |
-| Read# | [Links](./class03.md) |
+| class03 | [Links](./class03.md) |
 | Read# | Links |
 | Read# | Links |
 | Read# | Links |
