@@ -15,7 +15,7 @@
 
 ![](https://scaldes.github.io/images/ListsOrdered.jpg)
 
- ** HTML also supports description lists. A description list is a list of terms, with a description of each term. The ``<dl>`` tag defines the description list, the ``<dt>`` tag defines the term (name), and the ``<dd>`` tag describes each term:**
+  **HTML also supports description lists. A description list is a list of terms, with a description of each term. The ``<dl>`` tag defines the description list, the ``<dt>`` tag defines the term (name), and the ``<dd>`` tag describes each term:**
 
  **Example :**
  ![img](https://www.wikihow.com/images/thumb/2/2e/Define-a-Definition-List-in-HTML-Step-7.jpg/v4-460px-Define-a-Definition-List-in-HTML-Step-7.jpg.webp)
