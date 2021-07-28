@@ -31,7 +31,7 @@ Here you can check my reading note for 201 course by checking the topics in the 
 | class02 | [link](./class-02.md) |
 | class03 | [Links](./class03.md) |
 | class04 | [Links](./class04.md) |
-| Read# | Links |
+| Read05 | [Links](./read05.md) |
 | Read# | Links |
 
 ![img](https://notionpress.com/blog/wp-content/uploads/2015/07/table-of-contents1.jpg)
