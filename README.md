@@ -32,7 +32,7 @@ Here you can check my reading note for 201 course by checking the topics in the 
 | class03 | [Links](./class03.md) |
 | class04 | [Links](./class04.md) |
 | Read05 | [Links](./read05.md) |
-| class-06 | [Links](./class-06) |
+| class-06 | [Links](./class-06.md) |
 
 ![img](https://notionpress.com/blog/wp-content/uploads/2015/07/table-of-contents1.jpg)
 
