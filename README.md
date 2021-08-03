@@ -35,6 +35,9 @@ Here you can check my reading note for 201 course by checking the topics in the 
 |class-06 | [link](./class-06.md)|
 |class-07 | [link](./class-07.md)|
 |class-08 | [link](./class08.md)|
+|class-09 | [link](./class-09.md)|
+
+
 
 
 ![img](https://notionpress.com/blog/wp-content/uploads/2015/07/table-of-contents1.jpg)
