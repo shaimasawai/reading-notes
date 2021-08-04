@@ -36,6 +36,7 @@ Here you can check my reading note for 201 course by checking the topics in the 
 |class-07 | [link](./class-07.md)|
 |class-08 | [link](./class08.md)|
 |class-09 | [link](./class-09.md)|
+|class-10 | [link](./class10.md)|
 
 
 
