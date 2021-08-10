@@ -41,6 +41,7 @@ Here you can check my reading note for 201 course by checking the topics in the 
 |class-12 | [link](./class12.md)|
 |class-13 | [link](./class-12.md)|
 |class-14a | [link](./class-14a.md)|
+|class-14b | [link](./class-14b.md)|
 
 
 
