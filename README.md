@@ -49,7 +49,7 @@ Here you can check my reading note for 201 course by checking the topics in the 
 
 Here you can check my reading note for 301 course by checking the topics in the following table:
 
-## Table of the redings assigments
+*** Table of the redings assigments***
 
 
 | Read# | Links |
