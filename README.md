@@ -45,6 +45,25 @@ Here you can check my reading note for 201 course by checking the topics in the 
 
 
 
+# Code 301 reading-notes
+
+Here you can check my reading note for 301 course by checking the topics in the following table:
+
+## Table of the redings assigments
+
+
+| Read# | Links |
+|------|-------|
+| class | [link] |
+| class | [link] |
+| class | [Links] |
+| class | [Links] |
+| class | [Links] |
+| class  | [link]|
+| class  | [link]|
+| class  | [link]|
+| class  | [link])|
+
 
 ![img](https://notionpress.com/blog/wp-content/uploads/2015/07/table-of-contents1.jpg)
 
