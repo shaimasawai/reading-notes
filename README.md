@@ -18,7 +18,7 @@ read02 | [read02](./read02)
 
 ____
 
-# Code 201 reading-notes
+ **Code 201 reading-notes**
 
 Here you can check my reading note for 201 course by checking the topics in the following table:
 
