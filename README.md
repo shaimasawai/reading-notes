@@ -22,8 +22,6 @@ ____
 
  ## Code 201 reading-notes
 
-Here you can check my reading note for 201 course by checking the topics in the following table:
-
  ***Table of the redings assigments***
 
 
@@ -48,8 +46,6 @@ Here you can check my reading note for 201 course by checking the topics in the 
 
 
 ## Code 301 reading-notes
-
-Here you can check my reading note for 301 course by checking the topics in the following table:
 
 ***Table of the redings assigments***
 
