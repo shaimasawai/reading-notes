@@ -5,7 +5,7 @@
 
 ## Code 101 reading-notes
 
-***Table of the redings assigments ***
+***Table of the redings assigments***
 
   Read# | link 
 ------------ | -------------
