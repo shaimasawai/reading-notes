@@ -3,6 +3,8 @@
  **I'm shaima sawai , I'm 26 years old , i graduated from yarmouk university in civil engineering degree , I'm here to learn about programming because it will leads the world in the future, and to change the way I'm looking to the problem.I'm happy to be here with you .**
  ____
 
+## Code 101 reading-notes
+
 ***Table of the redings assigments 102***
 
   Read# | link 
@@ -18,7 +20,7 @@ read02 | [read02](./read02)
 
 ____
 
- **Code 201 reading-notes**
+ ## Code 201 reading-notes
 
 Here you can check my reading note for 201 course by checking the topics in the following table:
 
@@ -45,7 +47,7 @@ Here you can check my reading note for 201 course by checking the topics in the 
 
 
 
-# Code 301 reading-notes
+## Code 301 reading-notes
 
 Here you can check my reading note for 301 course by checking the topics in the following table:
 
