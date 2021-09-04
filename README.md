@@ -52,7 +52,7 @@ ____
 
 | Read# | Links |
 |------|-------|
-| class | [link] |
+| Read | [link](./clas001.md) |
 | class | [link] |
 | class | [Links] |
 | class | [Links] |
